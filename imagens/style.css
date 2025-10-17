@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap');
+
+body{
+    background-color: #dbdbdb;
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Cinzel', serif;
+    scroll-behavior: smooth;
+}
+
+.barra{
+    background-color: black;
+    height: 70px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 10000;
+}
+
+.logo{
+    width: 35px;
+    height: 60px;
+    margin-left: 20px;
+}
+
+.divdalista{
+    width: 24%;
+    height: 30px;
+    margin-left: 55px;
+    
+}
+
+.lista{
+    display: flex;
+    
+    justify-content: space-around;
+}
+
+.item{
+    list-style-type: none;
+    color: white;
+    font-size: 17px;
+
+}
+
+.item a{
+    text-decoration: none;
+    text-decoration-style: none;
+    color: white;
+}
+
+.titulo{
+    position: absolute;
+
+}
+
+.titulo{
+position: absolute;
+margin-top: -390px;
+margin-left: 580px;
+font-size: 32px;
+}
+
+.paragrafo{
+    position: absolute;
+    margin-top: -345px;
+    width: 39%;
+    margin-left: 470px;
+    text-align: center;
+}
+
+.btn{
+    width: 190px;
+    height: 40px;
+    background-color: rgb(125, 125, 125);
+    position: absolute;
+    margin-top: -193px;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 675px;
+}
+
+.btn a{
+    text-decoration: none;
+    text-decoration-style: none;
+    color: white;
+}
+
+.banner{
+    margin-bottom: -50px;
+    margin-top: 70px;
+}
+
+.segundo{
+    background-color: #dbdbdb;
+    height: 800px;
+     padding-top: 100px;
+}
+
+.obras{
+    margin-top: 20px;
+    font-size: 30px;
+    text-align: center;
+    width: 100%;
+    height: 30px;
+}
+
+.blaa{
+    margin-top: 70px;
+}
+
+.baba{
+    width: 600px;
+    height: 480px;
+    margin-top: 40px;
+    margin-left: 460px;
+}
+
+.terceiro{
+    background-color: rgb(253, 246, 241);
+    height: 650px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.call{
+    margin-left: 420px;
+    margin-top: 145px;
+    position: absolute;
+    font-size: 25px;
+}
+
+.mapa{
+    width: 460px;
+    height: 350px;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 300px;
+}
+
+.final{
+    width: 400px;
+    height: auto;
+    margin-left: 950px;
+    margin-top: 150px;
+}
+
+.preto{
+    width: 100%;
+    height: 80px;
+    background-color: black;
+    position: absolute;
+}
+
+.ultimo{
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    margin-top: 40px;
+    margin-left: 45%;
+}
+
+#quadros {
+   
+}
